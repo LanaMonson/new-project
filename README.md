@@ -1,1 +1,1 @@
-# new-project
+# pizza-app
